@@ -1,5 +1,4 @@
-modify the changes
-this is git development code
+modify the changes again in deploy
 apiVersion: apps/v1
 kind: Deployment
 metadata:
